@@ -7,7 +7,7 @@ The Betting API is a simple, secure API for processing bet requests from users. 
 1. **Clone the Repository**:
 
     ```
-    git clone https://github.com/BitslerCasino/bitsler-be-test.git
+    git clone https://github.com/ArmanAraqelyan/Betting-API.git
     ```
 
 2. **Database and Project Setup**:
